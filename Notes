@@ -1,8 +1,14 @@
 ex.15 -] This excercise is about reading files || read, open, argv
 
+ex.16 -] Reading and Writing Files || Important Commands 
+                                   || Close: Closes the file
+                                   || read : Reads the content of the file
+                                   || readline : Read just one line
+                                   || truncate : Empties the file
+                                   || write ("stuff") : Writes "stuff" to a file
+                                   || seek (0) : Move the read/write location to the bigining of the file
 
-
-
+ex.17 -] No started yet
 
 
 
