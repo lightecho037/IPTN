@@ -1,6 +1,55 @@
-ex.15 -] This excercise is about reading files || read, open, argv
 
-ex.16 -] Reading and Writing Files || Important Commands 
+
+#Learn Python 3 ther
+hard way
+
+1 - ] exercise 1
+completed [simple script using print]
+
+2 - ] ex2.py
+completed [the script teach how to use  #
+sign]
+
+3 - ] ex3.py #
+Numbers and math [basic math calculations]
+
+4 - ] ex4.py # The
+use of variables
+
+5 - ] ex5.py # the
+use of f {} to format variables on strings
+
+6 - ] ex6.py # the
+use of string substitution hilarious = False 
+print (joke_evaluation.format(hilarious))
+
+7 - ] ex7.py # More
+about strings and printing '' ## mistkates mystyping :( 
+
+8 - ] ex8.py # More
+about printing # Print substitution {} {} 
+
+9 - ] ex9.py # This
+excer.. is about more printing \n 
+
+10 - ] ex10.py # Use
+of ESCAPE SEQUENCES || \\, \n, \t, \r, etc .....
+
+11 - ] ex11.py
+#  User input || input command
+
+12 - ] ex12.py #
+User input || using the command input()
+
+13 - ] ex13.py #
+Unpacking Variables || ex13.py one two three || Run this script with variables
+
+14 - ] ex14.py #
+Prompting and Passing || ex14.py variable || 
+
+15 -] This excercise is about reading files || read, open, argv
+
+16 -] Reading and Writing Files || Important Commands 
                                    || Close: Closes the file
                                    || read : Reads the content of the file
                                    || readline : Read just one line
@@ -8,7 +57,7 @@ ex.16 -] Reading and Writing Files || Important Commands
                                    || write ("stuff") : Writes "stuff" to a file
                                    || seek (0) : Move the read/write location to the bigining of the file
 
-ex.17 -] No started yet
+17 -] No started yet
  
 
 
